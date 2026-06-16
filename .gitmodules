@@ -1,0 +1,3 @@
+[submodule "C/Eltex"]
+	path = C/Eltex
+	url = https://github.com/DmitriyKunitsin/Eltex.git
